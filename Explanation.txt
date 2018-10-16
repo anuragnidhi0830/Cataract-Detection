@@ -1,0 +1,3 @@
+This Project was meant to provide the ease of access of cataract detection in India as people living in villages cannot afford the costly method of cataract detection.
+
+We used CNN and image processing techniques on the data collected through web aa well as real time data from the nearby hospitals. Then the trained model was used to predict whether or not a person is having catarct or not.
